@@ -1,0 +1,87 @@
+---
+title: "simple_quarto_website"
+bibliography: ../reference.bib
+format:
+  html:
+    toc: true #toc is what makes the Table Of Contents (TOC)
+    toc-location: right #where to situate the table of contents 
+---
+
+# Introduction to Lab 3
+
+This is a Quarto website. I am now realizing that doing the lab before the homework is due is very helpful because you get a basic understanding on how to make a quarto website which is what the HW asks you to do at the end to display your results!!
+If I did this assignment before I finished HW1, then I would have done HW1 at the speed of light!
+
+The speed of light in a vacuum is $C=\lambda f$
+Speaking of light, how to estimate the value of dark matter using simulations is cited @Perez2023CAMELSSAM. 
+
+## Main Body of Lab 3 
+
+> "You are so right." A line i hear often from my parents, sister, friends and family. 
+
+Here is a list of things fun facts about me:
+
+- I am very tall for a girl I guess? I'm 5'10 and everyone tells me how I'm so tall and should play basketball/volleyball (I don't like competitive sports, they stress me out)
+
+- I love football, I love watching football and now that I turnt 21, it's even funner because sports bars are a thing! I do wish that football culture was bigger here like similar level to Europe. 
+
+- I am trilingual! I speak French, English and Creole. I speak Spanish too a lil and can get around since it's so similar to French and I also studied Spanish for 5 years. 
+
+### Tables and Columns! Fun!
+::: {.columns}
+::: {.column width="50%"}
+**Column 1 (In bold because it is very important)**  
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec *quote* and **BIG** text.
+:::
+::: {.column width="50%"}
+*Column 2 (italic for funsies)*  
+Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo.
+:::
+:::
+
+## Table
+
+| Countries    | Capital                   | Population       |
+|:-------------|:--------------------------|-----------------:|
+| USA          | Washington D.C.           | 700 thousand     |
+| France       | Paris                     | 2.1 million      |
+| UK           | London                    | 8.9 million      |
+
+## We love Mathematics +-x%
+
+$$
+\int_0^6 5x^2+6x+3 \, dx = \frac{1}{3}
+$$
+
+$$
+\hat H \psi = E\psi
+$$
+
+## Images
+
+![Beautiful Image of Georgetown University](images/Georgetown.avif){fig-alt="Local screenshot" fig-cap="Evidence of my repository"}
+
+![Photo of NGC 253 - Sculptor Galaxy](images/NGC_253.jpeg){fig-alt="NGC 253" fig-cap="NGC 253"}
+
+## I want to be these people 
+
+<div style="position:relative;padding-top:56.25%;">
+  <iframe
+    src=images/people_bridge.mp4
+    title="Welcome to Georgetown University!"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
+    allowfullscreen
+  ></iframe>
+</div>
+
+## Mermaid Diagram
+```{mermaid}
+flowchart LR
+  A[Data] --> B[Preprocessing]
+  B --> C[Feature Engineering]
+  C --> D[Model Training]
+  D --> E{Evaluate}
+  E -- Pass --> F[Present]
+  E -- Iterate --> C
+```
+

@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "This is a Quarto website. I am now realizing that doing the lab before the homework is due is very helpful because you get a basic understanding on how to make a quarto website which is what the HW asks you to do at the end to display your results!! If I did this assignment before I finished HW1, then I would have done HW1 at the speed of light!\nThe speed of light in a vacuum is \\(C=\\lambda f\\) Speaking of light, how to estimate the value of dark matter using simulations is cited Perez et al. (2023).\n\n\n\n“You are so right.” A line i hear often from my parents, sister, friends and family.\n\nHere is a list of things fun facts about me:\n\nI am very tall for a girl I guess? I’m 5’10 and everyone tells me how I’m so tall and should play basketball/volleyball (I don’t like competitive sports, they stress me out)\nI love football, I love watching football and now that I turnt 21, it’s even funner because sports bars are a thing! I do wish that football culture was bigger here like similar level to Europe.\nI am trilingual! I speak French, English and Creole. I speak Spanish too a lil and can get around since it’s so similar to French and I also studied Spanish for 5 years.\n\n\n\n\n\nColumn 1 (In bold because it is very important)\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quote and BIG text.\n\nColumn 2 (italic for funsies)\nCurabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo.\n\n\n\n\n\n\n\n\n\nCountries\nCapital\nPopulation\n\n\n\n\nUSA\nWashington D.C.\n700 thousand\n\n\nFrance\nParis\n2.1 million\n\n\nUK\nLondon\n8.9 million\n\n\n\n\n\n\n\\[\n\\int_0^6 5x^2+6x+3 \\, dx = \\frac{1}{3}\n\\]\n\\[\n\\hat H \\psi = E\\psi\n\\]\n\n\n\n\n\n\nBeautiful Image of Georgetown University\n\n\n\n\n\nPhoto of NGC 253 - Sculptor Galaxy\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nflowchart LR\n  A[Data] --&gt; B[Preprocessing]\n  B --&gt; C[Feature Engineering]\n  C --&gt; D[Model Training]\n  D --&gt; E{Evaluate}\n  E -- Pass --&gt; F[Present]\n  E -- Iterate --&gt; C"
+  },
+  {
+    "objectID": "index.html#main-body-of-lab-3",
+    "href": "index.html#main-body-of-lab-3",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "“You are so right.” A line i hear often from my parents, sister, friends and family.\n\nHere is a list of things fun facts about me:\n\nI am very tall for a girl I guess? I’m 5’10 and everyone tells me how I’m so tall and should play basketball/volleyball (I don’t like competitive sports, they stress me out)\nI love football, I love watching football and now that I turnt 21, it’s even funner because sports bars are a thing! I do wish that football culture was bigger here like similar level to Europe.\nI am trilingual! I speak French, English and Creole. I speak Spanish too a lil and can get around since it’s so similar to French and I also studied Spanish for 5 years.\n\n\n\n\n\nColumn 1 (In bold because it is very important)\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quote and BIG text.\n\nColumn 2 (italic for funsies)\nCurabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo."
+  },
+  {
+    "objectID": "index.html#table",
+    "href": "index.html#table",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "Countries\nCapital\nPopulation\n\n\n\n\nUSA\nWashington D.C.\n700 thousand\n\n\nFrance\nParis\n2.1 million\n\n\nUK\nLondon\n8.9 million"
+  },
+  {
+    "objectID": "index.html#we-love-mathematics--x",
+    "href": "index.html#we-love-mathematics--x",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "\\[\n\\int_0^6 5x^2+6x+3 \\, dx = \\frac{1}{3}\n\\]\n\\[\n\\hat H \\psi = E\\psi\n\\]"
+  },
+  {
+    "objectID": "index.html#images",
+    "href": "index.html#images",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "Beautiful Image of Georgetown University\n\n\n\n\n\nPhoto of NGC 253 - Sculptor Galaxy"
+  },
+  {
+    "objectID": "index.html#mermaid-diagram",
+    "href": "index.html#mermaid-diagram",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "flowchart LR\n  A[Data] --&gt; B[Preprocessing]\n  B --&gt; C[Feature Engineering]\n  C --&gt; D[Model Training]\n  D --&gt; E{Evaluate}\n  E -- Pass --&gt; F[Present]\n  E -- Iterate --&gt; C"
+  },
+  {
+    "objectID": "slides/slides.html#introduction",
+    "href": "slides/slides.html#introduction",
+    "title": "My reveal.js format presentation",
+    "section": "Introduction",
+    "text": "Introduction\nWelcome! This short deck is done as Component 6 of Lab 3 for DSAN 5000 Section 01.\n\nGoals\n\nDo a good job\nMake slides using revealjs format"
+  },
+  {
+    "objectID": "slides/slides.html#slide-1",
+    "href": "slides/slides.html#slide-1",
+    "title": "Project Overview",
+    "section": "Slide 1",
+    "text": "Slide 1\nInstead of reading, I think that you would much rather look at images right! Here you go:\n\n\n\n\nPerez, Lucia A., Shy Genel, Francisco Villaescusa-Navarro, Rachel S. Somerville, Austen Gabrielpillai, Daniel Anglés-Alcázar, Beth A. Wandelt, and L. Y. Aaron Yung. 2023. “Constraining Cosmology with Machine Learning and Galaxy Clustering: The CAMELS-SAM Suite.” The Astrophysical Journal 954 (1): 11. https://doi.org/10.3847/1538-4357/accd52."
+  },
+  {
+    "objectID": "slides/slides.html#images",
+    "href": "slides/slides.html#images",
+    "title": "My reveal.js format presentation",
+    "section": "Images",
+    "text": "Images\nInstead of reading, I think that you would much rather look at images right! Here you go:\n\n\n\nBeautiful Image of the University of Virginia\n\n\n\n\n\nPhoto of my home country - Mauritius"
+  },
+  {
+    "objectID": "slides/slides.html#reference",
+    "href": "slides/slides.html#reference",
+    "title": "My reveal.js format presentation",
+    "section": "Reference",
+    "text": "Reference\nIf you ever want to learn more about astrophysical simulations, here I reference the paper that my internship last summer focused on (Perez et al. 2023).\n\n\nCode\nimport matplotlib.pyplot as plt\nimport numpy as np\n\nx = np.linspace(0, 50, 200)\ny = np.sin(x)\n\nplt.figure()\nplt.plot(x, y)\nplt.title(\"Sine Wave\")\nplt.xlabel(\"x\")\nplt.ylabel(\"sin(x)\")\nplt.show()\n\n\n\n\n\n\n\nPerez, Lucia A., Shy Genel, Francisco Villaescusa-Navarro, Rachel S. Somerville, Austen Gabrielpillai, Daniel Anglés-Alcázar, Beth A. Wandelt, and L. Y. Aaron Yung. 2023. “Constraining Cosmology with Machine Learning and Galaxy Clustering: The CAMELS-SAM Suite.” The Astrophysical Journal 954 (1): 11. https://doi.org/10.3847/1538-4357/accd52."
+  },
+  {
+    "objectID": "slides/slides.html#uva",
+    "href": "slides/slides.html#uva",
+    "title": "My reveal.js format presentation",
+    "section": "UVA!",
+    "text": "UVA!\nHere is a beautiful image of my undergrad institution - The University of Virginia\n\nBeautiful Image of the University of Virginia"
+  },
+  {
+    "objectID": "slides/slides.html#mauritius",
+    "href": "slides/slides.html#mauritius",
+    "title": "My reveal.js format presentation",
+    "section": "Mauritius!",
+    "text": "Mauritius!\nHere is a beautiful image of my home country - Mauritius!\n\nParadise"
+  }
+]
